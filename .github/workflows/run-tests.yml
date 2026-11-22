@@ -1,4 +1,4 @@
-name: E-Commerce Automation Tests
+name: E-Commerce UI Test Automation Framework Tests
 
 on:
   push:

@@ -25,7 +25,7 @@ Covers UI automation with Page Object Model and REST API validation.
 ## Project Structure
 
 ```
-ECommerce_Automation/
+E-Commerce-UI-Test-Automation-Framework/
 ├── config/
 │   └── config.ini          # URLs, credentials, settings
 ├── pages/                  # Page Object Model classes
@@ -104,3 +104,7 @@ allure serve reports/allure
 ![Allure Report](docs/allure_report.png)
 
 > 27 test cases | 100% Pass Rate | UI + API Coverage
+
+## Maintainer
+
+- saifumr178
