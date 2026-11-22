@@ -1,6 +1,6 @@
 # E-Commerce Test Automation Framework
 
-![Tests](https://github.com/shipra1402/ecommerce-test-automation/actions/workflows/run-tests.yml/badge.svg)
+![Tests](https://github.com/saifumr178/ecommerce-test-automation/actions/workflows/run-tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.x-green)
 ![pytest](https://img.shields.io/badge/pytest-9.x-orange)
